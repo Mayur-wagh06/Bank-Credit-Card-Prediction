@@ -26,7 +26,7 @@ The Thera bank recently saw a steep decline in the number of users of their cred
 ## Contact
 Reach out the creator on,
 - Linkedin:
-    - [Mayur Wagh]([https://www.linkedin.com/in/mayur-wagh-30b016191/])
+    - [https://www.linkedin.com/in/mayur-wagh-30b016191/])
 - Github:
-    - [Mayur Wagh]([https://github.com/Mayur-wagh06/])
+    - ([https://github.com/Mayur-wagh06/])
 
